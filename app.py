@@ -19,7 +19,7 @@ st.set_page_config(
 # SETTINGS
 # ---------------------------------------------------------
 SLIDE_FOLDER = Path("slides")
-TOTAL_SLIDES = 20
+TOTAL_SLIDES = 10
 
 
 # ---------------------------------------------------------
